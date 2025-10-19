@@ -1,4 +1,6 @@
 # Traffic OCR–LLM Benchmark Dataset
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17392715.svg)](https://doi.org/10.5281/zenodo.17392715)
+
 
 This repository contains two datasets used in the study:
 
