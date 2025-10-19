@@ -1,0 +1,152 @@
+[
+  {
+    "source_image": "a1.jpg",
+    "load_number": "116WQ2Q4S",
+    "pickup_location": "IND2 PLAINFIELD, IN 46168",
+    "pickup_time": "Sun, Aug 18, 11:30 EDT",
+    "dropoff_location": "MDW5 CREST HILL, ILLINOIS 60403",
+    "dropoff_time": "Sun, Aug 18, 15:56 CDT",
+    "total_rate": "$1 022,07",
+    "rate_per_mile": "$5.29/mi"
+  },
+  {
+    "source_image": "a2.jpg",
+    "load_number": "T-112K9S5H5",
+    "pickup_location": "RDG1 HAMBURG, Pennsylvania 19526",
+    "pickup_time": "Sun, Aug 18, 01:30 EDT",
+    "dropoff_location": "DET3 PONTIAC, Michigan 48342",
+    "dropoff_time": "Mon, Aug 19, 03:04 EDT",
+    "total_rate": "$847,46",
+    "rate_per_mile": "$1.51/mi"
+  },
+  {
+    "source_image": "a3.jpg",
+    "load_number": "T-113MK9MSS",
+    "pickup_location": "DET3 PONTIAC, Michigan 48342",
+    "pickup_time": "Sun, Aug 18, 01:08 EDT",
+    "dropoff_location": "LDJ5 STATEN ISLAND, NY 10314",
+    "dropoff_time": "Sun, Aug 18, 16:15 EDT",
+    "total_rate": "$1 459,89",
+    "rate_per_mile": "$2.17/mi"
+  },
+  {
+    "source_image": "a4.jpg",
+    "load_number": "T-114RDNVV2",
+    "pickup_location": "ABQ2 Los Lunas, NM 87031",
+    "pickup_time": "Sat, Aug 17, 19:28 MDT",
+    "dropoff_location": "COS5 COLORADO SPRINGS, Colorado",
+    "dropoff_time": "Sun, Aug 18, 04:39 MDT",
+    "total_rate": "$965,968",
+    "rate_per_mile": "$2.41/mi"
+  },
+  {
+    "source_image": "a5.jpg",
+    "load_number": "113JFVVRZ",
+    "pickup_location": "DCL2 AKRON, Ohio 44305",
+    "pickup_time": "Sat, Aug 17, 21:51 EDT",
+    "dropoff_location": "EWR8 TETERBORO, NJ 07608",
+    "dropoff_time": "Sun, Aug 18, 08:21 EDT",
+    "total_rate": "$902,03",
+    "rate_per_mile": "$1.92/mi"
+  },
+  {
+    "source_image": "a6.jpg",
+    "load_number": "111Y66J3D",
+    "pickup_location": "PHX5 GOODYEAR, AZ 85338",
+    "pickup_time": "Sat, Aug 17, 19:45 MST",
+    "dropoff_location": "TCY9 OAKLEY, California 94561",
+    "dropoff_time": "Sun, Aug 18, 10:43 PDT",
+    "total_rate": "$1 215,26",
+    "rate_per_mile": "$1.67/mi"
+  },
+  {
+    "source_image": "a7.jpg",
+    "load_number": "112YL5VHQ",
+    "pickup_location": "AMA1 Amarillo, TX 79108",
+    "pickup_time": "Sun, Aug 18, 02:00 CDT",
+    "dropoff_location": "ABQ5 ALBUQUERQUE, New Mexico 87121",
+    "dropoff_time": "Sun, Aug 18, 07:32 MDT",
+    "total_rate": "$1 163,93",
+    "rate_per_mile": "$3.82/mi"
+  },
+  {
+    "source_image": "a8.jpg",
+    "load_number": "T-116Q2V1FP",
+    "pickup_location": "AMA1 Amarillo, TX 79108",
+    "pickup_time": "Sat, Aug 17, 05:45 CDT",
+    "dropoff_location": "ABQ1 ALBUQUERQUE, New Mexico",
+    "dropoff_time": "Sat, Aug 17, 12:04 MDT",
+    "total_rate": "$711,07",
+    "rate_per_mile": "$2.24/mi"
+  },
+  {
+    "source_image": "a9.jpg",
+    "load_number": "114F61LDK",
+    "pickup_location": "ELP1 EL PASO, Texas 79928",
+    "pickup_time": "Sun, Aug 18, 04:30 MDT",
+    "dropoff_location": "LBB5 LUBBOCK, Texas 79403",
+    "dropoff_time": "Sun, Aug 18, 13:08 CDT",
+    "total_rate": "$1 281,19",
+    "rate_per_mile": "$3.69/mi"
+  },
+  {
+    "source_image": "a10.jpg",
+    "load_number": "111C2HNDW",
+    "pickup_location": "IND1 WHITESTOWN, IN 46075",
+    "pickup_time": "Sun, Aug 18, 03:00 EDT",
+    "dropoff_location": "MDW5 CREST HILL, ILLINOIS 60403",
+    "dropoff_time": "Sun, Aug 18, 06:27 CDT",
+    "total_rate": "$951,37",
+    "rate_per_mile": "$5.69/mi"
+  },
+  {
+    "source_image": "a11.jpg",
+    "load_number": "1117VWWV1",
+    "pickup_location": "SAT4 SAN ANTONIO, Texas 78245",
+    "pickup_time": "Sat, Aug 17, 16:45 CDT",
+    "dropoff_location": "TUL5 TULSA, Oklahoma 74116",
+    "dropoff_time": "Sun, Aug 18, 04:29 CDT",
+    "total_rate": "$877,98",
+    "rate_per_mile": "$1.56/mi"
+  },
+  {
+    "source_image": "a12.jpg",
+    "load_number": "115L1W2PY",
+    "pickup_location": "HIN9 WHITELAND, Indiana 46184",
+    "pickup_time": "Sat, Aug 17, 21:00 EDT",
+    "dropoff_location": "HMC9 Liberty, Missouri 64068",
+    "dropoff_time": "Sun, Aug 18, 06:31 CDT",
+    "total_rate": "$1 654,35",
+    "rate_per_mile": "$3.32/mi"
+  },
+  {
+    "source_image": "a13.jpg",
+    "load_number": "1148TFTZM",
+    "pickup_location": "IND1 WHITESTOWN, IN 46075",
+    "pickup_time": "Sun, Aug 18, 01:00 EDT",
+    "dropoff_location": "MDW5 CREST HILL, ILLINOIS 60403",
+    "dropoff_time": "Sun, Aug 18, 04:26 CDT",
+    "total_rate": "$951,37",
+    "rate_per_mile": "$5.69/mi"
+  },
+  {
+    "source_image": "a14.jpg",
+    "load_number": "T-111JTB6FK",
+    "pickup_location": "FWA4 FORT WAYNE, Indiana 46809",
+    "pickup_time": "Sat, Aug 17, 06:22 EDT",
+    "dropoff_location": "SAV3 Macon, Georgia 31216",
+    "dropoff_time": "Sun, Aug 18, 18:24 EDT",
+    "total_rate": "$1 319,67",
+    "rate_per_mile": "$1.76/mi"
+  },
+  {
+    "source_image": "a15.jpg",
+    "load_number": "115ZVR5ML",
+    "pickup_location": "IND2 PLAINFIELD, IN 46168",
+    "pickup_time": "Sat, Aug 17, 11:30 EDT",
+    "dropoff_location": "MDW5 CREST HILL, ILLINOIS 60403",
+    "dropoff_time": "Sun, Aug 18, 15:56 CDT",
+    "total_rate": "$1 022,07",
+    "rate_per_mile": "$5.29/mi"
+  }
+]
