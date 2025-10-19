@@ -76,4 +76,4 @@ PeerJ Computer Science.
 ## 📬 Contact
 
 For dataset-related inquiries, please contact:  
-**Ehsan Qader** — [GitHub Issues](https://github.com/YOUR_USERNAME/traffic-ocr-llm-benchmark/issues)
+**Ehsan Qader** — [GitHub Issues](https://github.com/ehs9nino/traffic-ocr-llm-benchmark/issues)
